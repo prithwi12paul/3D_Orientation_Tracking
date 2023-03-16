@@ -31,7 +31,7 @@ ifile = "/home/prithwiraj/Desktop/ECE276A_PR1/ECE276A_PR1/data/imu/imuRaw" + dat
 ts = tic()
 #camd = read_data(cfile)
 imud = read_data(ifile)
-#vicd = read_data(vfile)
+vicd = read_data(vfile)
 #print(imud)
 #a=jnp.float_(vicd['rots'])
 #print(a.shape[2])
