@@ -18,10 +18,6 @@ The [data](https://drive.google.com/file/d/1fijuFjKSXvZfbPsZya0OdWZUJkB45_9J/vie
 
 ### Source Code
 
-Necessary Python Libraries required to run the code
-
-NUMPY, JAX, JAXLIB, TRANSFORMS3D
-
 #### Necessary Python Libraries
 
 The third party modules used are as listed below. They are included as [`requirements.txt`](requirements.txt).
